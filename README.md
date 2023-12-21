@@ -44,20 +44,20 @@ To use these notebooks:
 
 **tasks.ipynb**
     
-    * Task Overview: Description of each task.
+* Task Overview: Description of each task.
     
-    * Implementation: Python code solving  tasks.
+* Implementation: Python code solving  tasks.
     
-    * Visualisation: Graphs and plots demonstrating the results.
+* Visualisation: Graphs and plots demonstrating the results.
 
 **project.ipynb**
 
-    * Task Overview: Description of the project.
+* Task Overview: Description of the project.
     
-    * Data Loading: Loading the Iris dataset using Pandas.
+* Data Loading: Loading the Iris dataset using Pandas.
     
-    * Data Exploration: Exploring the dataset with basic statistical techniques.
+* Data Exploration: Exploring the dataset with basic statistical techniques.
     
-    * Data Visualisation: Creating visualisations to understand the Iris dataset better using Matplotlib and Seaborn.
+* Data Visualisation: Creating visualisations to understand the Iris dataset better using Matplotlib and Seaborn.
     
-    * Analysis: Detailed analysis and insights from the Iris dataset.
+* Analysis: Detailed analysis and insights from the Iris dataset.
