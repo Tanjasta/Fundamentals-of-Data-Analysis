@@ -6,9 +6,9 @@ This repository contains two Jupyter Notebooks demonstrating data analysis and v
 
 **Notebooks**
 
-* 		tasks.ipynb: This notebook includes a series of tasks that showcase different data manipulation and analysis techniques.
+**tasks.ipynb:** This notebook includes a series of tasks that showcase different data manipulation and analysis techniques.
 
-* 		project.ipynb: This notebook focuses on the analysis of the Fisher’s Iris dataset.
+**project.ipynb:** This notebook focuses on the analysis of the Fisher’s Iris dataset.
 
 #### Prerequisites
 
@@ -34,15 +34,15 @@ pip install numpy matplotlib seaborn pandas
 
 To use these notebooks:
 
-* 		Clone or download this repository to your local machine.
+* Clone or download this repository to your local machine.
 
-* 		Navigate to the repository directory.
+* Navigate to the repository directory.
 
-* 		Launch Jupyter Notebook or Jupyter Lab and open the desired notebook.
+* Launch Jupyter Notebook or Jupyter Lab and open the desired notebook.
 
 #### Structure
 
-* 		tasks.ipynb
+**tasks.ipynb**
     
     * Task Overview: Description of each task.
     
@@ -50,7 +50,7 @@ To use these notebooks:
     
     * Visualisation: Graphs and plots demonstrating the results.
 
-* 		project.ipynb
+**project.ipynb**
 
     * Task Overview: Description of the project.
     
